@@ -1,0 +1,34 @@
+{
+  "name": "homebridge-energenie-ener314rt",
+  "version": "1.0.1",
+  "description": "energenie-ener314rt plugin for the Homebridge project",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=1.0.0"
+  },
+  "dependencies": {
+    "energenie-ener314rt": "^0.3.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkilivan/homebridge-energenie-ener314rt.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "energenie",
+    "ener314rt"
+  ],
+  "author": "Murat Kilivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkilivan/homebridge-energenie-ener314rt/issues"
+  },
+  "homepage": "https://github.com/mkilivan/homebridge-energenie-ener314rt#readme"
+}
